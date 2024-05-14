@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/banner_light@2x.png">
@@ -171,3 +172,6 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 Thanks to the over 200 contributors who have helped make this project what it is today!
 
 Especially huge thanks to [@shamoon](https://github.com/shamoon), who has been the backbone of this community from the very start.
+=======
+# gethomepage-ddv
+>>>>>>> origin
