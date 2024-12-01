@@ -18,8 +18,8 @@ dependencies:
     specifier: ^2.5.1
     version: 2.5.1
   compare-versions:
-    specifier: ^6.1.0
-    version: 6.1.0
+    specifier: ^6.1.1
+    version: 6.1.1
   dockerode:
     specifier: ^4.0.2
     version: 4.0.2
@@ -1217,8 +1217,8 @@ packages:
     engines: {node: '>= 6'}
     dev: false
 
-  /compare-versions@6.1.0:
-    resolution: {integrity: sha512-LNZQXhqUvqUTotpZ00qLSaify3b4VFD588aRr8MKFw4CMUr98ytzCW5wDH5qx/DEY5kCDXcbcRuCqL0szEf2tg==}
+  /compare-versions@6.1.1:
+    resolution: {integrity: sha512-4hm4VPpIecmlg59CHXnRDnqGplJFrbLG4aFEl5vl6cK1u76ws3LLvX7ikFnTDl5vo39sjWD6AaDPYodJp/NNHg==}
     dev: false
 
   /concat-map@0.0.1:
